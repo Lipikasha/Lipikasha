@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Whrere U Elevate](https://whereuelevate.com/)
 
-- 🌱 Participate - New Hackathon on [Great AppSec Hackathon 2024](https://whereuelevate.com/drills/great-appsec-hackathon-2024/)
+- 🌱 Participate - New Hackathon [Great AppSec Hackathon 2024](https://whereuelevate.com/drills/great-appsec-hackathon-2024/)
 
 - 🌱 I’m currently learning **Design, Animation, Product Management**
 
